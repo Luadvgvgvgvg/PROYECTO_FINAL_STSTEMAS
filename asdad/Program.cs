@@ -34,7 +34,7 @@ namespace Proyecto_Final_Sistemas
                 Console.WriteLine("3. Bloque C");
                 Console.WriteLine("4. Activar alarma manualmente");
                 Console.WriteLine("5. Salir");
-                Console.Write("\nOpción: ");
+                Console.Write("Opción: ");
 
                 int.TryParse(Console.ReadLine(), out opcion);
                 Console.Clear();
@@ -73,7 +73,7 @@ namespace Proyecto_Final_Sistemas
                 if (opcion != 5)
                 {
                     Console.ForegroundColor = ConsoleColor.DarkGray;
-                    Console.WriteLine("\nPresione una tecla para volver al menú...");
+                    Console.WriteLine("Presione una tecla para volver al menú...");
                     Console.ResetColor();
                     Console.ReadKey();
                 }
