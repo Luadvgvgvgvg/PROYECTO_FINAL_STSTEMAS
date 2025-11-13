@@ -1,0 +1,6 @@
+C:\Users\lg854\source\repos\BibliotecaMonitoreo\BibliotecaMonitoreo\bin\Debug\BibliotecaMonitoreo.dll
+C:\Users\lg854\source\repos\BibliotecaMonitoreo\BibliotecaMonitoreo\bin\Debug\BibliotecaMonitoreo.pdb
+C:\Users\lg854\source\repos\BibliotecaMonitoreo\BibliotecaMonitoreo\obj\Debug\BibliotecaMonitoreo.csproj.AssemblyReference.cache
+C:\Users\lg854\source\repos\BibliotecaMonitoreo\BibliotecaMonitoreo\obj\Debug\BibliotecaMonitoreo.csproj.CoreCompileInputs.cache
+C:\Users\lg854\source\repos\BibliotecaMonitoreo\BibliotecaMonitoreo\obj\Debug\BibliotecaMonitoreo.dll
+C:\Users\lg854\source\repos\BibliotecaMonitoreo\BibliotecaMonitoreo\obj\Debug\BibliotecaMonitoreo.pdb

@@ -1,0 +1,6 @@
+C:\Users\lg854\source\repos\BibliotecaAlertas\BibliotecaAlertas\bin\Debug\BibliotecaAlertas.dll
+C:\Users\lg854\source\repos\BibliotecaAlertas\BibliotecaAlertas\bin\Debug\BibliotecaAlertas.pdb
+C:\Users\lg854\source\repos\BibliotecaAlertas\BibliotecaAlertas\obj\Debug\BibliotecaAlertas.csproj.AssemblyReference.cache
+C:\Users\lg854\source\repos\BibliotecaAlertas\BibliotecaAlertas\obj\Debug\BibliotecaAlertas.csproj.CoreCompileInputs.cache
+C:\Users\lg854\source\repos\BibliotecaAlertas\BibliotecaAlertas\obj\Debug\BibliotecaAlertas.dll
+C:\Users\lg854\source\repos\BibliotecaAlertas\BibliotecaAlertas\obj\Debug\BibliotecaAlertas.pdb
